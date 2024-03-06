@@ -24,25 +24,25 @@ individually for processing.
 camelot --pages 7 stream -plot grid ./input/UKPostcodelistv2Aug19.pdf
 ```
 
-![Page 7, 1 grid having 3 zones](.images/Page 7 3 Zones.png)
+<img src=".images/Page 7 3 Zones.png" width="640" alt="Page 7, 1 grid having 3 zones"/>
 
 ### Page 7, Zone 1 Grid
 ```shell
 camelot --pages 7 stream -plot grid -T 40,770,537,537 ./input/UKPostcodelistv2Aug19.pdf
 ```
 
-![Page 7, Zone 1 Grid](.images/Page 7 Zone 1 Grid.png)
+<img src=".images/Page 7 Zone 1 Grid.png" width="640" alt="Page 7, Zone 1 Grid"/>
 
 ###  Page 7, Zone 2 Grid
 ```shell
 camelot --pages 7 stream -plot grid -T 40,510,537,320 ./input/UKPostcodelistv2Aug19.pdf
 ```
 
-![Page 7, Zone 2 Grid](.images/Page 7 Zone 2 Grid.png)
+<img src=".images/Page 7 Zone 2 Grid.png" width="640" alt="Page 7, Zone 2 Grid"/>
 
 ### Page 7, Zone 3 Grid
 ```shell
 camelot --pages 7 stream -plot grid -T 40,290,537,180 ./input/UKPostcodelistv2Aug19.pdf
 ```
 
-![Page 7, Zone 3 Grid](./.images/Page 7 Zone 3 Grid.png)
+<img src=".images/Page 7 Zone 3 Grid.png" width="640" alt="Page 7, Zone 3 Grid"/>
