@@ -1,4 +1,4 @@
-# Post codes against Zone, Area, Location extracted from Parcel Force PDF
+# Post codes against Zone, Area, Location extracted from [Parcelforce](https://www.parcelforce.com/) post cost list PDF
 
 https://www.parcelforce.com/sites/default/files/UKPostcodelistv2Aug19.pdf
 
