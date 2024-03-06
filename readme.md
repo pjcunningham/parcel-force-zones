@@ -2,7 +2,7 @@
 
 https://www.parcelforce.com/sites/default/files/UKPostcodelistv2Aug19.pdf
 
-### Parcel Force PDF Input
+### Parcelforce PDF Input
 
 <img src=".images/Parcel Force PDF.png" width="640" alt="Parcel Force PDF Input"/>
 
