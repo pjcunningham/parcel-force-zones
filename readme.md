@@ -19,7 +19,7 @@ python cli.py ./input/UKPostcodelistv2Aug19.pdf ./output/output.json
 Page 7 is the troublesome page as it has 3 zones. Using Camelot cli we can get the table co-ordinates and extract them
 individually for processing.
 
-### Show page grid
+### Show page 7 grid
 ```shell
 camelot --pages 7 stream -plot grid ./input/UKPostcodelistv2Aug19.pdf
 ```
